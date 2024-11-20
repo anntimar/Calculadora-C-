@@ -1,0 +1,14 @@
+C:\Users\Hand Talk\Documents\calculadora\calculadora\calculadora\bin\Debug\calculadora.exe.config
+C:\Users\Hand Talk\Documents\calculadora\calculadora\calculadora\bin\Debug\calculadora.exe
+C:\Users\Hand Talk\Documents\calculadora\calculadora\calculadora\bin\Debug\calculadora.pdb
+C:\Users\Hand Talk\Documents\calculadora\calculadora\calculadora\obj\Debug\calculadora.csproj.AssemblyReference.cache
+C:\Users\Hand Talk\Documents\calculadora\calculadora\calculadora\obj\Debug\calculadora.Form1.resources
+C:\Users\Hand Talk\Documents\calculadora\calculadora\calculadora\obj\Debug\calculadora.Properties.Resources.resources
+C:\Users\Hand Talk\Documents\calculadora\calculadora\calculadora\obj\Debug\calculadora.csproj.GenerateResource.cache
+C:\Users\Hand Talk\Documents\calculadora\calculadora\calculadora\obj\Debug\calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Hand Talk\Documents\calculadora\calculadora\calculadora\obj\Debug\calculadora.exe
+C:\Users\Hand Talk\Documents\calculadora\calculadora\calculadora\obj\Debug\calculadora.pdb
+C:\Users\Hand Talk\Documents\calculadora\calculadora\calculadora\bin\Debug\calculadora.exe.manifest
+C:\Users\Hand Talk\Documents\calculadora\calculadora\calculadora\bin\Debug\calculadora.application
+C:\Users\Hand Talk\Documents\calculadora\calculadora\calculadora\obj\Debug\calculadora.exe.manifest
+C:\Users\Hand Talk\Documents\calculadora\calculadora\calculadora\obj\Debug\calculadora.application
